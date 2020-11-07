@@ -26,3 +26,8 @@
 - capeChecker
 - sniper.lol
 - telegramNameChecker
+
+
+<h2 align="center">contant</h2>
+
+- please contact me via discord cnr#9999 *<755603501060456570>*
