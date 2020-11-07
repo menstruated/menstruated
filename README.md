@@ -23,6 +23,6 @@
 - [security.移动 site](https://security.xn--6frz82g/)
 - [cynical site](https://cynical.co/)
 - capeChecker
-- [NameMC Friend Adder] (https://github.com/terrorist/NameMC-Friend-Adder)
+- [NameMC Friend Adder](https://github.com/terrorist/NameMC-Friend-Adder)
 - sniper
 - Telegram Name Checker
