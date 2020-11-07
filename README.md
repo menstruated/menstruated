@@ -21,8 +21,8 @@
 <h2 align="center">past projects</h2>
 
 - [security.移动 site](https://security.xn--6frz82g/)
-- [cynical site](https://cynical.co/)
-- capeChecker
+- [cynical.co](https://cynical.co/)
 - [NameMC Friend Adder](https://github.com/terrorist/NameMC-Friend-Adder)
-- sniper
-- Telegram Name Checker
+- capeChecker
+- sniper.lol
+- telegramNameChecker
