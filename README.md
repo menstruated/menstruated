@@ -13,13 +13,12 @@
 </p>
 
 
-<h1 align="center">projects</h1>
-<h2 align="center">current</h2>
+<h2 align="center">current projects</h2>
 
 - [dbSearch](https://discord.gg/XvxE5Tu/)
 - cnrbot
 
-<h2 align="center">past</h2>
+<h2 align="center">past projects</h2>
 
 - [security.移动 site](https://security.xn--6frz82g/)
 - [cynical site](https://cynical.co/)
