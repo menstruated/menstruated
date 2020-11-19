@@ -20,7 +20,7 @@
 
 <h2 align="center">past projects</h2>
 
-- [security.移动 site](https://security.xn--6frz82g/)
+- [security.移动](https://security.xn--6frz82g/) site
 - [cynical.co](https://cynical.co/)
 - [NameMC Friend Adder](https://github.com/terrorist/NameMC-Friend-Adder)
 - capeChecker
