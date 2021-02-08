@@ -15,7 +15,6 @@
 
 <h2 align="center">current projects</h2>
 
-- [dbSearch](https://discord.gg/XvxE5Tu/)
 - cnrbot
 
 <h2 align="center">past projects</h2>
@@ -26,6 +25,7 @@
 - capeChecker
 - sniper.lol
 - telegramNameChecker
+- dbSearch
 
 
 <h2 align="center">contact</h2>
