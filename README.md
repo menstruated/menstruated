@@ -12,11 +12,12 @@
 <a href="https://t.me/squirted/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="20" width="20" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brew600&show_icons=true&theme=dracula)
 
 <h2 align="center">current projects</h2>
 
 - cnrbot
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&show_icons=true&theme=dracula)
 
 <h2 align="center">past projects</h2>
 
