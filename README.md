@@ -19,6 +19,7 @@
 - [Sin selfbot by Sipher](https://github.com/Sipherbot)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&show_icons=true&theme=dracula)
+
 <img src="https://komarev.com/ghpvc/?username=terrorist&color=lightgray" alt="fax" width="" height="">
 
 <h2 align="center">past projects</h2>
