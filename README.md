@@ -16,7 +16,7 @@
 <h2 align="center">current projects</h2>
 
 - cnrbot
-- [Sin selfbot by Sipher](https://github.com/Sipherbot)
+- [Mitsuki selfbot by Mitsuki Development](https://github.com/MitsukiDev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&show_icons=true&theme=dracula)
 
