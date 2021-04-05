@@ -24,12 +24,10 @@
 
 <h2 align="center">past projects</h2>
 
-- [security.移动](https://security.xn--6frz82g/) site
-- [cynical.co](https://cynical.co/)
-- [NameMC Friend Adder](https://github.com/terrorist/NameMC-Friend-Adder)
+- security.移动
+- NameMC Friend Adder
 - capeChecker
 - sniper.lol
-- telegramNameChecker
 - dbSearch
 
 
