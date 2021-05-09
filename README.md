@@ -1,7 +1,7 @@
 <h1>cnr</h1>
 
 - connor
-- 18
+- 19
 - cybersec student
 - united kingdom
 
