@@ -15,7 +15,7 @@
 
 <h2 align="center">current projects</h2>
 
-- Mitsuki selfbot Improved
+- Mitsuki Selfbot (Improved)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&show_icons=true&theme=dracula)
 
