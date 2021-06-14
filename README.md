@@ -15,8 +15,7 @@
 
 <h2 align="center">current projects</h2>
 
-- cnrbot
-- [Mitsuki selfbot](https://github.com/MitsukiDev) by Mitsuki Development
+- [Mitsuki selfbot] Improved
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&show_icons=true&theme=dracula)
 
@@ -24,6 +23,8 @@
 
 <h2 align="center">past projects</h2>
 
+- [Mitsuki selfbot](https://github.com/MitsukiDev) by Mitsuki Development
+- cnrbot
 - security.移动
 - NameMC Friend Adder
 - capeChecker
