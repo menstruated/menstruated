@@ -24,7 +24,7 @@
 
 <h2 align="center">past projects</h2>
 
-- Mitsuki selfbot by Mitsuki Development
+- Mitsuki selfbot
 - cnrbot
 - security.移动
 - NameMC Friend Adder
