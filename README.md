@@ -16,6 +16,7 @@
 <h2 align="center">current projects</h2>
 
 - Mitsuki Selfbot (Improved)
+- dbSearch [Revamped][discord.gg/AxrJ4vesp6]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&show_icons=true&theme=dracula)
 
