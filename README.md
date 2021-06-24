@@ -18,7 +18,7 @@
 - [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx)
 - [dbSearch [Revamped]](https://discord.gg/AxrJ4vesp6)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
 
 <img src="https://komarev.com/ghpvc/?username=terrorist&color=lightgray" alt="fax" width="" height="">
 
