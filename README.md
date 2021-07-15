@@ -24,6 +24,9 @@
 
 <h2 align="center">past projects</h2>
 
+(Newest -> Oldest)
+- [Discord Avatar Viewer](https://github.com/terrorist/discord-avatar-viewer)
+- [Wooting Redesign (Recoloured and changed assets)](https://github.com/terrorist/wooting-redesign)
 - Mitsuki selfbot
 - cnrbot
 - security.移动
