@@ -10,6 +10,7 @@
   <a href="https://instagr.am/connuhs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
 <a href="https://github.com/terrorist/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20" width="20" /></a>
 <a href="https://t.me/squirted/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="20" width="20" /></a>
+  <a href="https://twitch.tv/cnrs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
 </p>
 
 
