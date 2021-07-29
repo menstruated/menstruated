@@ -41,4 +41,4 @@
 
 <h2 align="center">contact</h2>
 
-- please contact me via discord *<807314249579102209>*
+- please contact me via discord *<609044650019258407>*
