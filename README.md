@@ -27,6 +27,7 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [Discord Random Spam Shit](https://github.com/terrorist/discord-spam-shit)
 - [Discord Avatar Viewer](https://github.com/terrorist/discord-avatar-viewer)
 - [Wooting Redesign (Recoloured and changed assets)](https://github.com/terrorist/wooting-redesign)
 - Mitsuki selfbot
