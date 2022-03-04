@@ -14,6 +14,12 @@
 <a href="https://youtube.com/cnr69/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
 </p>
 
+<h2 align="center">langs</h2>
+
+- Python (proficient)
+- C# (haven't touched in ages)
+- nodeJS (mostly proficient)
+- Lua (learning)
 
 <h2 align="center">current projects</h2>
 
