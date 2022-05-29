@@ -17,9 +17,9 @@
 <h2 align="center">langs</h2>
 
 - Python (proficient)
+- Lua (proficient)
 - C# (haven't touched in ages)
 - nodeJS (mostly proficient)
-- Lua (learning)
 
 <h2 align="center">current projects</h2>
 
