@@ -23,9 +23,7 @@
 
 <h2 align="center">current projects</h2>
 
-- [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx)
-- [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x)
-- [Fortnite Tracker](https://discord.ly/cnr-tracker)
+- [Global Deathmatch](https://github.com/globaldeathmatch)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
 
@@ -34,6 +32,10 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- GBRP
+- [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx)
+- [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x)
+- [Fortnite Tracker](https://discord.ly/cnr-tracker)
 - [Discord Delete DMs](https://github.com/terrorist/discord-delete-dms)
 - [Discord Random Spam Shit](https://github.com/terrorist/discord-spam-shit)
 - [Discord Avatar Viewer](https://github.com/terrorist/discord-avatar-viewer)
