@@ -24,6 +24,7 @@
 <h2 align="center">current projects</h2>
 
 - [Global Deathmatch](https://github.com/globaldeathmatch)
+- [ERG](https://discord.io/ergfivem)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
 
@@ -32,7 +33,7 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
-- GBRP
+- [GBRP](https://discord.io/gbrpfivem)
 - [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx)
 - [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x)
 - [Fortnite Tracker](https://discord.ly/cnr-tracker)
