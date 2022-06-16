@@ -25,6 +25,7 @@
 
 - [Global Deathmatch](https://github.com/globaldeathmatch)
 - [ERG](https://discord.io/ergfivem)
+- [cnr development](https://discord.gg/7meDGMaqpM) - Join for help with FiveM / Lua and to request anything to be made or purchase already created scripts.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
 
