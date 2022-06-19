@@ -22,6 +22,8 @@
 - nodeJS (mostly proficient)
 
 <h2 align="center">current projects</h2>
+
+(Newest -> Oldest)
 - [Global Deathmatch](https://discord.gg/rebeldm)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
