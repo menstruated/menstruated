@@ -24,7 +24,9 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [Global Deathmatch](https://discord.gg/rebeldm)
+- [Rebel Deathmatch](https://discord.gg/rebeldm)
+- [ERG](https://discord.io/ergfivem)
+- [cnr development](https://discord.gg/7meDGMaqpM)- Join for help with FiveM / Lua and to request anything to be made or purchase already created scripts.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
 
