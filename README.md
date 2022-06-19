@@ -22,9 +22,9 @@
 - nodeJS (mostly proficient)
 
 <h2 align="center">current projects</h2>
-- [Rebel Deathmatch](https://discord.gg/rebeldm)
-- [ERG](https://discord.io/ergfivem)
-- [cnr development](https://discord.gg/7meDGMaqpM)
+- [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx)
+- [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x)
+- [Fortnite Tracker](https://discord.ly/cnr-tracker)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
 
