@@ -22,9 +22,7 @@
 - nodeJS (mostly proficient)
 
 <h2 align="center">current projects</h2>
-- [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx)
-- [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x)
-- [Fortnite Tracker](https://discord.ly/cnr-tracker)
+- [Global Deathmatch](https://discord.gg/rebeldm)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
 
