@@ -22,8 +22,7 @@
 - nodeJS (mostly proficient)
 
 <h2 align="center">current projects</h2>
-
-- [Global Deathmatch](https://github.com/globaldeathmatch)
+- [Rebel Deathmatch](https://discord.gg/rebeldm)
 - [ERG](https://discord.io/ergfivem)
 - [cnr development](https://discord.gg/7meDGMaqpM) - Join for help with FiveM / Lua and to request anything to be made or purchase already created scripts.
 
@@ -34,6 +33,7 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [Global Deathmatch](https://github.com/globaldeathmatch)
 - [GBRP](https://discord.io/gbrpfivem)
 - [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx)
 - [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x)
