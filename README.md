@@ -24,9 +24,9 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [Rebel Deathmatch](https://discord.gg/rebeldm) (FiveM UK/EU based Deathmatch Server - Developer)
-- [ERG](https://discord.io/ergfivem) (FiveM Semi-RP/Fragging server - Developer)
-- [cnr development](https://discord.gg/7meDGMaqpM) (Join for help with FiveM / Lua and to request anything to be made or purchase already created scripts.)
+- [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server - Developer)*
+- [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server - Developer)*
+- [cnr development](https://discord.gg/7meDGMaqpM) *(Join for help with FiveM / Lua and to request anything to be made or purchase already created scripts.)*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
 
@@ -35,22 +35,22 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
-- [Global Deathmatch](https://github.com/globaldeathmatch) (FiveM UK based Deathmatch Server - Founder/Lead Developer)
-- [GBRP](https://discord.io/gbrpfivem) (FiveM Semi-RP/Fragging server - Founder/Developer)
-- [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx) (Discord Selfbot containing many features with an authorisation system built in)
-- [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x) (Database Search Engine bot through discord using LeakCheck API)
-- [Fortnite Tracker](https://discord.ly/cnr-tracker) (Fortnite Stats Tracker bot through discord using fortnitetracker.com API)
-- [Discord Delete DMs](https://github.com/terrorist/discord-delete-dms) (Small python utility to delete discord dms via a discord Token)
-- [Discord Random Spam Shit](https://github.com/terrorist/discord-spam-shit) (Small python utility to spam discord servers via a discord Token)
-- [Discord Avatar Viewer](https://github.com/terrorist/discord-avatar-viewer)  (Small python utility to view discord avatars via a discord Token)
-- [Wooting Redesign (Recoloured and changed assets)](https://github.com/terrorist/wooting-redesign) (Reskin of wooting double movement program)
-- [Mitsuki selfbot](https://discord.gg/7mv5RKKcNx) (The original version of my Mitsuki selfbot)
-- cnrbot (Discord bot used for server moderation and fun commands)
-- security.移动 (Website used to advertise socials)
-- NameMC Friend Adder (Program to mass add friends on the website namemc.com to attain profile views)
-- capeChecker (A python script I made to mass check usernames for minecraft accounts to view which have capes for other processes)
-- sniper.lol (A minecraft name sniper)
-- dbSearch (The original version of my database search engine, used WeLeakInfo API)
+- [Global Deathmatch](https://github.com/globaldeathmatch) *(FiveM UK based Deathmatch Server - Founder/Lead Developer)*
+- [GBRP](https://discord.io/gbrpfivem) *(FiveM Semi-RP/Fragging server - Founder/Developer)*
+- [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx) *(Discord Selfbot containing many features with an authorisation system built in)*
+- [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x) *(Database Search Engine bot through discord using LeakCheck API)*
+- [Fortnite Tracker](https://discord.ly/cnr-tracker) *(Fortnite Stats Tracker bot through discord using fortnitetracker.com API)*
+- [Discord Delete DMs](https://github.com/terrorist/discord-delete-dms) *(Small python utility to delete discord dms via a discord Token)*
+- [Discord Random Spam Shit](https://github.com/terrorist/discord-spam-shit) *(Small python utility to spam discord servers via a discord Token)*
+- [Discord Avatar Viewer](https://github.com/terrorist/discord-avatar-viewer)  *(Small python utility to view discord avatars via a discord Token)*
+- [Wooting Redesign (Recoloured and changed assets)](https://github.com/terrorist/wooting-redesign) *(Reskin of wooting double movement program)*
+- [Mitsuki selfbot](https://discord.gg/7mv5RKKcNx) *(The original version of my Mitsuki selfbot)*
+- cnrbot *(Discord bot used for server moderation and fun commands)*
+- security.移动 *(Website used to advertise socials)*
+- NameMC Friend Adder *(Program to mass add friends on the website namemc.com to attain profile views)*
+- capeChecker *(A python script I made to mass check usernames for minecraft accounts to view which have capes for other processes)*
+- sniper.lol *(A minecraft name sniper)*
+- dbSearch *(The original version of my database search engine, used WeLeakInfo API)*
 
 
 <h2 align="center">contact</h2>
