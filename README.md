@@ -16,10 +16,10 @@
 
 <h2 align="center">langs</h2>
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="twitter" height="20" width="20" />
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="twitter" height="20" width="20" />
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg" alt="twitter" height="20" width="20" />
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="twitter" height="20" width="20" />
+- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="twitter" height="20" width="20" />
+- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="twitter" height="20" width="20" />
+- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg" alt="twitter" height="20" width="20" />
+- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="twitter" height="20" width="20" />
 
 <h2 align="center">current projects</h2>
 
