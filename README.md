@@ -16,10 +16,10 @@
 
 <h2 align="center">langs</h2>
 
-- Python (proficient)
-- Lua (proficient)
-- C# (haven't touched in ages)
-- nodeJS (mostly proficient)
+- Python <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="twitter" height="20" width="20" />
+- Lua <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="twitter" height="20" width="20" />
+- C# <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg" alt="twitter" height="20" width="20" />
+- nodeJS <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="twitter" height="20" width="20" />
 
 <h2 align="center">current projects</h2>
 
