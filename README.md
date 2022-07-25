@@ -57,4 +57,4 @@
 
 <h2 align="center">contact</h2>
 
-<p align="center">[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/609044650019258407?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Suck%20your%20mum)](https://discord.com/users/609044650019258407)</p>
+<center>[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/609044650019258407?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Suck%20your%20mum)](https://discord.com/users/609044650019258407)</center>
