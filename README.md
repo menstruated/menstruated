@@ -27,7 +27,7 @@
 
 (Newest -> Oldest)
 - [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server - Developer)*
-- [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server - Developer)*
+- [ARMA RP](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server - Developer)*
 - [cnr development](https://discord.gg/7meDGMaqpM) *(Join for help with FiveM / Lua and to request anything to be made or purchase already created scripts.)*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
@@ -37,6 +37,7 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server - Developer)*
 - [Global Deathmatch](https://github.com/globaldeathmatch) *(FiveM UK based Deathmatch Server - Founder/Lead Developer)*
 - [GBRP](https://discord.io/gbrpfivem) *(FiveM Semi-RP/Fragging server - Founder/Developer)*
 - [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx) *(Discord Selfbot containing many features with an authorisation system built in)*
