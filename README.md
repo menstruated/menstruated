@@ -37,9 +37,9 @@
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
-- [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server - Developer)*
-- [Global Deathmatch](https://github.com/globaldeathmatch) *(FiveM UK based Deathmatch Server - Founder/Lead Developer)*
-- [GBRP](https://discord.io/gbrpfivem) *(FiveM Semi-RP/Fragging server - Founder/Developer)*
+- [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server)*
+- [Global Deathmatch](https://github.com/globaldeathmatch) *(FiveM UK based Deathmatch Server)*
+- [GBRP](https://discord.io/gbrpfivem) *(FiveM Semi-RP/Fragging server)*
 - [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx) *(Discord Selfbot containing many features with an authorisation system built in)*
 - [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x) *(Database Search Engine bot through discord using LeakCheck API)*
 - [Fortnite Tracker](https://discord.ly/cnr-tracker) *(Fortnite Stats Tracker bot through discord using fortnitetracker.com API)*
@@ -62,7 +62,7 @@
   - Rebel Deathmatch - *Developer*
   - ERG - *Developer & External Contributor*
   - GMT - *Developer*
-  - GBRP - *Developer*
+  - GBRP - *Founder & Developer*
 
 <h2 align="center">contact</h2>
 
