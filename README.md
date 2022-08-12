@@ -57,11 +57,11 @@
 
 <h2 align="center">previous work</h2>
 Fivem Related Projects
-- [ARMA] - *Lead Developer*
-- [Rebel Deathmatch] - *Developer*
-- [ERG] - *Developer & External Contributor*
-- [GMT] - *Developer*
-- [GBRP] - *Developer*
+- ARMA - *Lead Developer*
+- Rebel Deathmatch - *Developer*
+- ERG] - *Developer & External Contributor*
+- GMT - *Developer*
+- GBRP - *Developer*
 
 <h2 align="center">contact</h2>
 
