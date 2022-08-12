@@ -30,10 +30,6 @@
 - [ARMA RP](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server - Developer)*
 - [cnr development](https://discord.gg/7meDGMaqpM) *(Join for help with FiveM / Lua and to request anything to be made or purchase already created scripts.)*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
-
-<img src="https://komarev.com/ghpvc/?username=terrorist&color=lightgray" alt="fax" width="" height="">
-
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
@@ -67,3 +63,7 @@
 <h2 align="center">contact</h2>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/609044650019258407?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Suck%20your%20mum)](https://discord.com/users/609044650019258407)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
+
+<img src="https://komarev.com/ghpvc/?username=terrorist&color=lightgray" alt="fax" width="" height="">
