@@ -56,12 +56,12 @@
 - dbSearch *(The original version of my database search engine, used WeLeakInfo API)*
 
 <h2 align="center">previous work</h2>
-- Fivem Related Projects
-  - [ARMA] - *Lead Developer*
-  - [Rebel Deathmatch] - *Developer*
-  - [ERG] - *Developer & External Contributor*
-  - [GMT] - *Developer*
-  - [GBRP] - *Developer*
+Fivem Related Projects
+- [ARMA] - *Lead Developer*
+- [Rebel Deathmatch] - *Developer*
+- [ERG] - *Developer & External Contributor*
+- [GMT] - *Developer*
+- [GBRP] - *Developer*
 
 <h2 align="center">contact</h2>
 
