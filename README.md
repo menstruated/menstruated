@@ -55,7 +55,7 @@
 <h2 align="center">previous work</h2>
 
 - FiveM Projects
-  - ARMA - *Lead Developer*
+  - ARMA - *Founder / Lead Developer*
   - Rebel Deathmatch - *Developer*
   - ERG - *Developer & External Contributor*
   - GMT - *Developer*
