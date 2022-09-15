@@ -52,15 +52,6 @@
 - sniper.lol *(A minecraft name sniper)*
 - dbSearch *(The original version of my database search engine, used WeLeakInfo API)*
 
-<h2 align="center">previous work</h2>
-
-- FiveM Projects
-  - ARMA - *Founder / Lead Developer*
-  - Rebel Deathmatch - *Developer*
-  - ERG - *Developer & External Contributor*
-  - GMT - *Developer*
-  - GBRP - *Founder & Developer*
-
 <h2 align="center">contact</h2>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/609044650019258407?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Suck%20your%20mum)](https://discord.com/users/609044650019258407)
