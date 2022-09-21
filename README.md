@@ -58,3 +58,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
 
 <img src="https://komarev.com/ghpvc/?username=terrorist&color=lightgray" alt="fax" width="" height="">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terrorist&" alt="terrorist" /></p>
+
