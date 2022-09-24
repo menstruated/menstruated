@@ -29,11 +29,11 @@
 - [ARMA RP](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
 - [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server)*
 - [cnr development](https://discord.gg/7meDGMaqpM) *(Join for help with FiveM / Lua and to request anything to be made or purchase already created scripts.)*
-- [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server)*
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server)*
 - [Global Deathmatch](https://github.com/globaldeathmatch) *(FiveM UK based Deathmatch Server)*
 - [GBRP](https://discord.io/gbrpfivem) *(FiveM Semi-RP/Fragging server)*
 - [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx) *(Discord Selfbot containing many features with an authorisation system built in)*
