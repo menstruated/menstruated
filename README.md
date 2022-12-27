@@ -28,11 +28,11 @@
 (Newest -> Oldest)
 - [ARMA RP](https://discord.gg/armarp) *(FiveM Semi-RP/Fragging server)*
 - [Rebel Deathmatch](https://discord.gg/rebeldm) *(FiveM UK/EU based Deathmatch Server)*
+- *(Join either servers above for help with FiveM / Lua and to request anything to be made or purchase already created scripts.)*
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
-- cnr development *(Join for help with FiveM / Lua and to request anything to be made or purchase already created scripts.)*
 - [ERG](https://discord.io/ergfivem) *(FiveM Semi-RP/Fragging server)*
 - [Global Deathmatch](https://github.com/globaldeathmatch) *(FiveM UK based Deathmatch Server)*
 - [GBRP](https://discord.io/gbrpfivem) *(FiveM Semi-RP/Fragging server)*
