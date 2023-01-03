@@ -8,7 +8,6 @@
 <p align="center">
 <a href="https://twitter.com/c123786/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
   <a href="https://instagr.am/connuhs/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
-<a href="https://github.com/terrorist/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20" width="20" /></a>
 <a href="https://t.me/squirted/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="20" width="20" /></a>
   <a href="https://twitch.tv/cnr1337/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
 <a href="https://youtube.com/cnr69/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
@@ -39,7 +38,7 @@
 - [Mitsuki Selfbot (Improved)](https://discord.gg/7mv5RKKcNx) *(Discord Selfbot containing many features with an authorisation system built in)*
 - [dbSearch (Revamped)](https://discord.gg/p4fM2Y7K5x) *(Database Search Engine bot through discord using LeakCheck API)*
 - [Fortnite Tracker](https://discord.ly/cnr-tracker) *(Fortnite Stats Tracker bot through discord using fortnitetracker.com API)*
-- [Discord Delete DMs](https://github.com/terrorist/discord-delete-dms) *(Small python utility to delete discord dms via a discord Token)*
+- [Discord Delete DMs](https://github.com/menstruated/discord-delete-dms) *(Small python utility to delete discord dms via a discord Token)*
 - [Mitsuki selfbot](https://discord.gg/7mv5RKKcNx) *(The original version of my Mitsuki selfbot)*
 - NameMC Friend Adder *(Program to mass add friends on the website namemc.com to attain profile views)*
 - capeChecker *(A python script I made to mass check usernames for minecraft accounts to view which have capes for other processes)*
@@ -50,7 +49,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/609044650019258407?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Suck%20your%20mum)](https://discord.com/users/609044650019258407)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terrorist&count_private=true&show_icons=true&theme=dracula)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terrorist&" alt="terrorist" /></p>
-<img src="https://komarev.com/ghpvc/?username=terrorist&color=lightgray" alt="fax" width="" height="">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=menstruated&count_private=true&show_icons=true&theme=dracula)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menstruated&" alt="menstruated" /></p>
+<img src="https://komarev.com/ghpvc/?username=menstruated&color=lightgray" alt="fax" width="" height="">
 
